@@ -1,0 +1,56 @@
+---
+title: "Manuscript Title"
+author: "Author Names, Degrees"
+date: "`r format(Sys.Date(), '%Y-%m-%d')`"
+output:
+  word_document:
+    reference_docx: reference.docx
+---
+
+# Key Points
+
+**Question:** [One focused clinical question.]
+
+**Findings:** [One to two sentences with design, population, and principal finding.]
+
+**Meaning:** [One sentence with clinical implication.]
+
+# Abstract
+
+**Importance:** [Text]
+
+**Objective:** [Text]
+
+**Design:** [Text]
+
+**Setting:** [Text]
+
+**Participants:** [Text]
+
+**Exposures:** [Text]
+
+**Main Outcomes and Measures:** [Text]
+
+**Results:** [Text]
+
+**Conclusions and Relevance:** [Text]
+
+# Introduction
+
+[Text]
+
+# Methods
+
+[Text]
+
+# Results
+
+[Text]
+
+# Discussion
+
+[Text]
+
+# References
+
+1. Author AB, Author CD. Article title. Journal. Year;volume(issue):pages.
